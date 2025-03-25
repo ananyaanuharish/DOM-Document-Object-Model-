@@ -1,0 +1,10 @@
+#box{
+    height: 600px;
+    width: 300px;
+    background-color: salmon;
+}
+
+h1{
+    color: violet;
+    text-align: center;
+}
